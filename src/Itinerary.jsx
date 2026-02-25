@@ -422,7 +422,7 @@ export default function TravelItinerary() {
         <div style={{
           maxWidth: 800,
           margin: "0 auto",
-          padding: "24px 20px 100px",
+          padding: "24px 20px 120px",
         }}>
           {/* Day header card */}
           <div style={{
